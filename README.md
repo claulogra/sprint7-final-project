@@ -42,3 +42,13 @@ usage.csv: Actividad generada por los usuarios: llamadas, mensajes, duración, l
    Insight Ejecutivo para Stakeholders
 1. Análisis ejecutivo
 
+## Como ejecutar el notebook
+Opciones para ejecutar tu notebook:
+Google Colab (recomendado):
+Ve a colab.research.google.com
+Selecciona "GitHub" en la pestaña
+Pega tu URL: https://github.com/claulogra/sprint7-final-project/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
+Colab abrirá tu notebook directamente
+Jupyter local:
+Descarga el archivo .ipynb desde GitHub
+Ábrelo en tu entorno Jupyter local
