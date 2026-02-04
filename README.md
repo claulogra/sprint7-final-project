@@ -14,33 +14,33 @@ users_latam.csv: Información de cada usuario (datos personales, plan, fecha de 
 usage.csv: Actividad generada por los usuarios: llamadas, mensajes, duración, longitud.
 
 ## Etapas de análisis realizadas
-  Cargar y explorar:
-1. Carga de datos y vista rápida
-2. Exploración de la estructura de los Dataset
+ 1. Cargar y explorar:
+Carga de datos y vista rápida
+Exploración de la estructura de los Dataset
    
-  Identificación de problemas de calidad de datos:
-1. Revisión de valores nulos
-2. Detección de valores inválidos y sentinels
-3. Revisión y estandarización de fechas
+2. Identificación de problemas de calidad de datos:
+Revisión de valores nulos
+Detección de valores inválidos y sentinels
+Revisión y estandarización de fechas
    
-   Limpieza básica de datos
-1. Corregir sentinels y fechas imposibles
+3. Limpieza básica de datos
+Corregir sentinels y fechas imposibles
    
-   Summary statistics de uso por usuario
-1. Agrupación por comportamiento de uso
-2. Resumen estadístico por usuario durante el 2024
+4. Summary statistics de uso por usuario
+Agrupación por comportamiento de uso
+Resumen estadístico por usuario durante el 2024
    
-   Visualización de distribuciones (uso y clientes) y outliers
-1. Visualización de Distribuciones
-2. Identificación de Outliers
+5. Visualización de distribuciones (uso y clientes) y outliers
+Visualización de Distribuciones
+Identificación de Outliers
    
-   Segmentación de Clientes
-1. Segmentación de Clientes Por Uso
-2. Segmentación de Clientes Por Edad
-3. Visualización de la Segmentación de Clientes
+6. Segmentación de Clientes
+Segmentación de Clientes Por Uso
+Segmentación de Clientes Por Edad
+Visualización de la Segmentación de Clientes
    
-   Insight Ejecutivo para Stakeholders
-1. Análisis ejecutivo
+7. Insight Ejecutivo para Stakeholders
+Análisis ejecutivo
 
 ## Como ejecutar el notebook
 Opciones para ejecutar tu notebook:
